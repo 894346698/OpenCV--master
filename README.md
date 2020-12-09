@@ -1,3 +1,3 @@
-# OpenCV-Java-Test-QR-BAR-code-
+# OpenCV-Java-QR-BAR
 
-Проверка возможности множественного чтения штрих и QR кодов с помошью вебкамеры, библиотеки OpenCV и zixing
+通过网络摄像头、OpenCV和zixing库识别二维码。
